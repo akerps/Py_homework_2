@@ -20,4 +20,3 @@ for line in data:
     position = int(line)
     total *= list[position]
 print(f"Произведение указанных элементов -> {total}")
-data.close
